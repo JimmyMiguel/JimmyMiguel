@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jimmy Miguel 🚀
 ### De Experto en Ventas a Arquitecto de Soluciones de IA y Automatización
 
-He dedicado mi carrera a entender las necesidades del cliente. Hoy, combino esa visión comercial con un stack técnico robusto para crear **Sistemas Autónomos** que escalan negocios. Soy el CTO tras **AUTOMATIZACION N8N**.
+He dedicado mi carrera a entender las necesidades del cliente. Hoy, combino esa visión comercial con un stack técnico robusto para crear **Sistemas Autónomos** que escalan negocios.
 
 ---
 
